@@ -15,7 +15,7 @@ Output:
 ![alt text](image-2.png)
 
 ## Predefined Queries
-The chatbot can respond to the following queries:
+The chatbot can respond to the following queries only:
 
 1. total revenue
 2. net income
