@@ -8,6 +8,7 @@ The financial chatbot is designed to assist users by providing financial metrics
 
 ## How It Works
 Users interact with the chatbot by submitting predefined queries through a web page interface. These queries can request information on key financial metrics such as total revenue, net income, assets, liabilities, and cash flow. The chatbot processes the query by extracting the requested data for the specified company and fiscal year from its dataset. The response is then formatted and presented to the user directly on the webpage.
+
 Input:
 ![alt text](image-1.png)
 
